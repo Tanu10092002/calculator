@@ -1,7 +1,6 @@
 # calculator
 git clone https://github.com/Tanu10092002/calculator.git
 cd calculator
-# calculator.py
 
 def add(x, y):
     return x + y
@@ -17,8 +16,6 @@ def divide(x, y):
         return x / y
     else:
         return "Error: Cannot divide by zero"
-
-# You can add more functions as needed
 
 if __name__ == "__main__":
     print("Calculator Program")
